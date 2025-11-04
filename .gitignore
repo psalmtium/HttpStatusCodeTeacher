@@ -1,0 +1,13 @@
+﻿/HttpStatusCodeTeacher/bin
+/HttpStatusCodeTeacher/obj
+/HttpStatusCodeTeacher/Properties/PublishProfiles
+/HttpStatusCodeTeacher/Properties/ServiceDependencies/http-status-code-teacher-v1 - Zip Deploy
+/HttpStatusCodeTeacher/Properties/serviceDependencies.http-status-code-teacher-v1 - Zip Deploy.json
+/HttpStatusCodeTeacher/Properties/serviceDependencies.http-status-code-teacher-v1 - Zip Deploy.json.user
+/HttpStatusCodeTeacher/Properties/serviceDependencies.json
+/HttpStatusCodeTeacher/publish
+/HttpStatusCodeTeacher/.config
+/HttpStatusCodeTeacher/appsettings.json
+/HttpStatusCodeTeacher/TelexWebhook_Req_Res.json
+/HttpStatusCodeTeacher/test-request.json
+/.vs
