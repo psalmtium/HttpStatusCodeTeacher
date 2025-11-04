@@ -56,8 +56,8 @@ HttpStatusCodeTeacher/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/telex-cultural-coworker.git
-cd telex-cultural-coworker/c-sharp/HttpStatusCodeTeacher
+git clone https://github.com/psalmtium/HttpStatusCodeTeacher.git
+cd HttpStatusCodeTeacher
 ```
 
 ### 2. Configure Environment Variables
